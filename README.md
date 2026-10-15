@@ -2,7 +2,7 @@
 
 A free, no-sign-up photo booth that runs entirely in the browser. Four shots with a countdown, vintage filters, and one downloadable photo strip. **Photos never leave the device**: there is no backend, no account, and no upload.
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://jiya4405.github.io/flashback-photobooth/
 
 ## Features
 
